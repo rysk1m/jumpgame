@@ -1,0 +1,1 @@
+The "Simple Jump Game" is a game where the player controls a character using the Space key. The player must avoid colliding with moving obstacles that appear on the screen. The game features dynamic difficulty: as the score increases, the speed of obstacles increases, and the player needs to press the Space key at the right time to jump.
